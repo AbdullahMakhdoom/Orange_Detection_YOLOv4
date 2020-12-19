@@ -1,13 +1,13 @@
 # Orange_Detection_YOLOv4
 Custom trained YOLOv4 in python for orange detection and yield estimation.
 
-## Downloading & Configuring YOLOv4
+## Downloading & Configuring YOLOv4 for Training on Custom Orange Dataset
 1.    Download or clone the repository from this [link](https://github.com/AlexeyAB/darknet.git) .
 2.    Unzip the contents of the repository.
 3.    Make the following changes :-
 
 *    Open "darknet-master" folder which we have just unzipped. Go to cfg folder.Make a copy of the file yolo4-custom.cfg now rename the copy file to yolo-obj.cfg.
-*    Open the file yolo-obj.cfg then :- 
+*    Open the file yolo-obj.cfg then :- (or skip this step by downloading yolo-object/yolo-obj.cfg)
 
       a.   change max_batches to (classes*2000), in our orange dataset classes = 1, so max_batches = 2000.
 

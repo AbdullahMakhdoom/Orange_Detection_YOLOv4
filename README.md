@@ -53,6 +53,11 @@ ZED_CAMERA_v2_8=0 # ZED SDK 2.X
 ```
 
 ## Inference using GUI 
+
+
+![](https://github.com/AbdullahMakhdoom/Orange_Detection_YOLOv4/blob/main/GUI.png)
+
+
 1. Create virtual environment (recommneded)
 2. Clone the repo or download the repo's .zip file.
 3. Install necessary packages by running "pip install -r requirements.txt" on command line

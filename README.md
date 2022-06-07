@@ -58,7 +58,7 @@ ZED_CAMERA_v2_8=0 # ZED SDK 2.X
 ![](https://github.com/AbdullahMakhdoom/Orange_Detection_YOLOv4/blob/main/GUI.png)
 
 
-1. Create virtual environment (recommneded)
+1. Create virtual environment (recommended)
 2. Clone the repo or download the repo's .zip file.
 3. Install necessary packages by running "pip install -r requirements.txt" on command line
 4. Download custom (trained on custom orange dataset) yolo weights from https://drive.google.com/file/d/1Mo6yHlriemyFqWsulWO2az3QINwsTX6i/view?usp=sharing.
